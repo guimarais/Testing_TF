@@ -105,3 +105,4 @@ venv.bak/
 
 #Datasets
 ./Training_files/*
+./Training_files/
